@@ -9,7 +9,7 @@ public class Main {
 
             //Using objects
             friend1.friendInformation();
-            System.out.println(friend1);
+            System.out.println("Hon är bäst!");
         }
 
 
